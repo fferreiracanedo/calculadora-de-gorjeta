@@ -1,0 +1,59 @@
+
+body{
+  background-color: hsl(171, 56%, 81%);
+  font-family: 'Space Mono', monospace;
+}
+
+h1{
+  text-align: center;
+}
+
+main{
+  background-color: hsl(0, 0%, 100%);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.card-principal{
+  font-size: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+    height: 323px;
+    border-radius: 31px;
+}
+
+.card-esquerda{
+  margin-left: 20px;
+ margin-top: 20px;
+  height: 75%;
+  width: 50%;
+  background-color: hsl(0, 0%, 100%);
+
+
+  
+  
+  
+  
+ 
+
+  
+}
+
+
+.card-direita{
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+  height: 75%;
+  width: 50%;
+  background-color: hsl(183, 100%, 15%);
+
+  display: flex;
+  
+
+  
+  align-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
